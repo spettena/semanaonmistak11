@@ -1,10 +1,10 @@
 # semanaonmistak11
 <h1 align="center">
-    <img alt="Be the Hero" src="https://github.com/spettena/semanaonmistak11/blob/master/Assets/Template.png?raw=true"  width="800px" style="border-radius:16px;"/>
+    <img alt="Be the Hero" src="https://github.com/spettena/semanaonmistak11/blob/master/Assets/Template.png?raw=true"  width="100px" style="border-radius:16px;"/>
 </h1>
 
 <h3 align="center" >
-  Be-The-Hero,  an application where you can be the hero and save the world, but not by the conventional way, but by helping some NGOs to raise funds for their causes
+  Be-The-Hero,  an application where you can be the hero and save the world, but not by the conventional way, but by helping some NGOs ( (No Government agency) to raise funds for their causes
 </h3>
 
 <p align="center">
