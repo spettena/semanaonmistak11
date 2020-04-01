@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center" >
-  An application where you can be the hero and save the world, but not by the conventional way, but by helping some NGOs to raise funds for their causes
+  Be-The-Hero,  an application where you can be the hero and save the world, but not by the conventional way, but by helping some NGOs to raise funds for their causes
 </h3>
 
 <p align="center">
