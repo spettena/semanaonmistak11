@@ -151,7 +151,7 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 
 		| Método | Estrutura | Ação | Parâmetros | Retorno |
 		| ------ | ------ | ------ | ------ | ------ |
-		| GET | `/session` | Autentica | Body/Id| JSON/Name |
+		| GET | `/register` | Autentica | Body/Id| JSON/Name |
 
 
 # Usar:
