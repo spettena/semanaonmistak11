@@ -144,8 +144,8 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 
 		| Método | Estrutura | Ação | Parâmetros | Retorno |
 		| ------ | ------ | ------ | ------ | ------ |
-		| GET | `/api/search` | Lista os incedents | Header/Authorization | JSON/Incedents |
-
+		| GET | `/api/profile` | Lista os incidents | Header/Authorization | JSON/Incidents |
+/**
 	- ###  Session
 		Altentica uma Ong para o login.
 
@@ -153,7 +153,7 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 		| ------ | ------ | ------ | ------ | ------ |
 		| GET | `/register` | Autentica | Body/Id| JSON/Name |
 
-
+**/
 # Usar:
   Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute em um segundo terminal/linha de comando:
   ```bash
