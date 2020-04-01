@@ -1,4 +1,4 @@
-# Visão Geral
+# Visão Geral do Backend
 <p align="justify">
   <a aria-label="Versão do Node" href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V12.md#12.14.1">
     <img src="https://img.shields.io/badge/node.js@lts-12.14.1-informational?logo=Node.JS"></img>
@@ -144,7 +144,14 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 
 		| Método | Estrutura | Ação | Parâmetros | Retorno |
 		| ------ | ------ | ------ | ------ | ------ |
-		| GET | `/api/profile` | Lista os incidents | Header/Authorization | JSON/Incidents |
+		| GET | `/api/profile` | Lista os incidents de uma ong em especifico| Header/Authorization | JSON/Incidents |
+		
+		- ###  Session
+		Altentica uma Ong para o login.
+
+		| Método | Estrutura | Ação | Parâmetros | Retorno |
+		| ------ | ------ | ------ | ------ | ------ |
+		| GET | `/session` | Autentica uma ong em especifico | Body/Id| JSON/Name |
 
 # Usar:
   Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute em um segundo terminal/linha de comando:
