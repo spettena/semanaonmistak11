@@ -8,16 +8,16 @@
 </h3>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/spettena/be-the-hero">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/spettena/be-the-hero">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/spettena/be-the-hero">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/spettena/semanaonmistak11">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/spettena/semanaonmistak11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/spettena/semanaonmistak11">
   <a href="https://github.com/spettena/be-the-hero/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/spettena/be-the-hero">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/spettena/semanaonmistak11">
   </a>
    <a href="https://github.com/spettena/be-the-hero/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/spettena/be-the-hero">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/spettena/semanaonmistak11">
   </a>
-  <img alt="License" src="https://img.shields.io/github/license/spettena/be-the-hero">
+  <img alt="License" src="https://img.shields.io/github/license/spettena/semanaonmistak11">
 </p>
 <p align="center">
 
