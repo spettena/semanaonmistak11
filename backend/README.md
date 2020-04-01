@@ -120,8 +120,8 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 		};
 		```
 
-- ## Controllers
-	Aqui estão listados os controles da API do DevRadar, seus métodos, parâmetros e estrutura.
+- ## Controllers   ( Contrato da API)
+	Aqui estão listados os controles da API, seus métodos, parâmetros e estrutura.
 	- ### Ongs
 		As ongs são os usuários do programa.
 		
