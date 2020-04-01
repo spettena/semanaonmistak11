@@ -155,12 +155,17 @@ O Backend foi desenvolvido pensando-se no conceito DRY (Don't Repeat Yourself) e
 
 
 # Usar:
-  Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute:
+  Para instalar as dependências e executar o **Servidor** (modo desenvolvimento), clone o projeto em seu computador e em seguida execute em um segundo terminal/linha de comando:
   ```bash
     cd backend
     nmp install
     nmp start
   ```
+
+# Testar:
+Use o  SW Insomnia para Desktop (acesso a rotas GET/POST/PUT/DELETE) descritos acima,   ou 
+Use o proprio FrontEnd (Web)  ou aplicativo  mobile via Expo (instalado no seu SmartPhone real)
+
 
 ## Licença
 
