@@ -1,6 +1,6 @@
 # semanaonmistak11
 <h1 align="center">
-    <img alt="Be the Hero" src="https://github.com/spettena/semanaonmistak11/master/Assets/Template.png?raw=true" "  width="800px" style="border-radius:16px;"/>
+    <img alt="Be the Hero" src="https://github.com/spettena/semanaonmistak11/blob/master/assets/Template.png?raw=true"  width="800px" style="border-radius:16px;"/>
 </h1>
 
 <h3 align="center" >
