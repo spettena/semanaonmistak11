@@ -1,4 +1,4 @@
-# semanaonmistak11
+# semanaonmistak11   -  Be-The-Hero
 <h1 align="center">
     <img alt="Be the Hero" src="https://github.com/spettena/semanaonmistak11/blob/master/Assets/heroes.png?raw=true"  width="500px" style="border-radius:16px;"/>
 </h1>
@@ -52,13 +52,7 @@
 
 ## Modificações
 
-1. When the user is logged in and accesses the login, he will be redirected to profile again
-2. If the user is not logged in and accesses the ‘profile’ route he will be redirected to the home screen
-3. Send Email to the NGO with the authentication ID after registering the same
-4. Fixed id bug fixed (previously it was possible to generate two identical ids)
-5. Dark Theme and Light Theme, both on the Web and Mobile
-6. Responsive frontend
-7. Custom alerts
+1. Original Proposed Application
 
 ## :computer: Languages
 
